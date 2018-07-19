@@ -1,0 +1,14 @@
+{
+  "name": "nse-games-on-sale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lmmfranco@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "nintendo-switch-eshop": "^1.1.1"
+  }
+}
